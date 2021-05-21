@@ -1,0 +1,15 @@
+body {
+    /* background-color: lightblue; */
+    background-image: url("../desert.jpg");
+    /* background-repeat: repeat-y; */
+    /* background-repeat: repeat-x; */
+    background-repeat: no-repeat;
+    background-position:right top;
+    background-attachment:fixed;
+
+}
+
+h1 {
+    background-color: limegreen;
+    opacity: 60%;
+}

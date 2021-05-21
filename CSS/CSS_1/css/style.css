@@ -1,0 +1,20 @@
+* {
+    font-style: italic;
+}
+
+p {
+    color:red;
+}
+
+#para1 {
+    font-size: 20px;
+}
+
+.center {
+    text-align: center;
+}
+div.center {
+    font-size: 24px;
+    color:rgb(107, 28, 211)
+}
+

@@ -1,0 +1,5 @@
+.border {
+    border-style: dotted dashed solid double;
+    border-width: 10px;
+    border-color: rgb(165, 236, 159) red tomato gray;
+}
